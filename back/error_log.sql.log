@@ -1,0 +1,30 @@
+[2025-06-11 16:33:11] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'observacoes' in 'field list'
+[2025-06-11 16:33:44] PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2025-06-11 16:35:26] PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2025-06-11 16:38:00] Erro: ID do empréstimo é obrigatório.
+[2025-06-11 17:05:00] Erro: ID do empréstimo é obrigatório.
+[2025-06-11 17:11:19] Erro: ID do empréstimo é obrigatório.
+[2025-06-11 17:13:58] Dados recebidos: Array
+(
+    [id] => 1
+)
+
+[2025-06-11 17:13:58] Erro Geral: ID do empréstimo é obrigatório.
+[2025-06-11 17:23:40] Dados recebidos: Array
+(
+    [id] => 1
+)
+
+[2025-06-11 17:23:40] Erro Geral: ID do empréstimo é obrigatório.
+[2025-06-11 17:24:58] Dados recebidos: 
+[2025-06-11 17:24:58] Erro Geral: ID do empréstimo é obrigatório.
+[2025-06-11 17:27:26] Dados recebidos: Array
+(
+    [id] => 1
+)
+
+[2025-06-11 17:28:35] Dados recebidos: Array
+(
+    [id] => 2
+)
+
